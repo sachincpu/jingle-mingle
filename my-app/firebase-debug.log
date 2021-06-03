@@ -1,0 +1,86 @@
+[debug] [2021-05-30T20:14:05.522Z] ----------------------------------------------------------------------
+[debug] [2021-05-30T20:14:05.524Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\sachin verma\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-30T20:14:05.525Z] CLI Version:   9.12.0
+[debug] [2021-05-30T20:14:05.525Z] Platform:      win32
+[debug] [2021-05-30T20:14:05.525Z] Node Version:  v14.17.0
+[debug] [2021-05-30T20:14:05.526Z] Time:          Mon May 31 2021 01:44:05 GMT+0530 (India Standard Time)
+[debug] [2021-05-30T20:14:05.526Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-30T20:14:05.535Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-30T20:14:05.536Z] > authorizing via signed-in user (sv8277523316@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\my-app
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using jinglemingle-a1fd8. 
+[debug] [2021-05-30T20:14:11.964Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/jinglemingle-a1fd8 [none]
+[debug] [2021-05-30T20:14:12.950Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/jinglemingle-a1fd8 200
+[debug] [2021-05-30T20:14:12.950Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/jinglemingle-a1fd8 {"projectId":"jinglemingle-a1fd8","projectNumber":"922119830847","displayName":"jinglemingle","name":"projects/jinglemingle-a1fd8","resources":{"hostingSite":"jinglemingle-a1fd8"},"state":"ACTIVE"}
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2021-05-30T20:15:41.378Z] ----------------------------------------------------------------------
+[debug] [2021-05-30T20:15:41.379Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\sachin verma\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init --project=chatous
+[debug] [2021-05-30T20:15:41.380Z] CLI Version:   9.12.0
+[debug] [2021-05-30T20:15:41.380Z] Platform:      win32
+[debug] [2021-05-30T20:15:41.380Z] Node Version:  v14.17.0
+[debug] [2021-05-30T20:15:41.381Z] Time:          Mon May 31 2021 01:45:41 GMT+0530 (India Standard Time)
+[debug] [2021-05-30T20:15:41.381Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-30T20:15:41.390Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-30T20:15:41.391Z] > authorizing via signed-in user (sv8277523316@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\my-app
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using jinglemingle-a1fd8. 
+[debug] [2021-05-30T20:15:48.016Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/jinglemingle-a1fd8 [none]
+[debug] [2021-05-30T20:15:49.078Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/jinglemingle-a1fd8 200
+[debug] [2021-05-30T20:15:49.078Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/jinglemingle-a1fd8 {"projectId":"jinglemingle-a1fd8","projectNumber":"922119830847","displayName":"jinglemingle","name":"projects/jinglemingle-a1fd8","resources":{"hostingSite":"jinglemingle-a1fd8"},"state":"ACTIVE"}
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
